@@ -1,3 +1,4 @@
+package org.bot;
 import java.util.*;
 
 public class Game {
